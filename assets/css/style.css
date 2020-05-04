@@ -33,12 +33,9 @@ table, th, td {
 table {
   border-collapse: collapse;
 }
-
-.oval{
-      width: 250px;
-      height: 350px;
-      border-radius: 100px/50px;
-    }
+th, td {
+  padding: 5px;
+}
 
 /*--------------------------------------------------------------
 # Back to top button
